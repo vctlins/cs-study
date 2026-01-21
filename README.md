@@ -5,7 +5,7 @@ Self-Taught Computer Science Roadmap &amp; Notes
 # List of courses and useful repositorys
 - [THE BOSS - OSSU](https://cs.ossu.dev/#curriculum)
 - [khan academy - maths](https://pt.khanacademy.org/)
-- [open-source-cs-degree]([https://www.example.com](https://github.com/mvillaloboz/open-source-cs-degree))
+- [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
 - [teach yourself](https://teachyourselfcs.com/)
 - [sheet of study](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing)
 
