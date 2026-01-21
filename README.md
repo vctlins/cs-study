@@ -16,3 +16,6 @@ Self-Taught Computer Science Roadmap &amp; Notes
 - [hacker earth](https://www.hackerearth.com/practice/)
 - [hired in tech](https://www.hiredintech.com/algorithms/algorithm-design-canvas/)
 - [cp roadmap](https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y/edit?tab=t.0)
+
+# C# and .NET
+- [C# academy](https://thecsharpacademy.com/)
