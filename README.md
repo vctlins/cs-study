@@ -11,6 +11,7 @@ Self-Taught Computer Science Roadmap &amp; Notes
 - [functionalC](https://functionalcs.github.io/curriculum/)
 - [sheet of study](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing)
 - [Open Source CS - Forrest Knight](https://github.com/ForrestKnight/open-source-cs?tab=readme-ov-file)
+- Class Central
 
 # Competitive programming
 - [codewars](https://www.codewars.com/dashboard)
