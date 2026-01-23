@@ -4,11 +4,13 @@ Self-Taught Computer Science Roadmap &amp; Notes
 
 # List of courses and useful repositorys
 - [THE BOSS - OSSU](https://cs.ossu.dev/#curriculum)
+- [CS50 Harvard](https://cs50.harvard.edu/x/)
 - [khan academy - maths](https://pt.khanacademy.org/)
 - [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
 - [teach yourself](https://teachyourselfcs.com/)
 - [functionalC](https://functionalcs.github.io/curriculum/)
 - [sheet of study](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing)
+- [Open Source CS - Forrest Knight](https://github.com/ForrestKnight/open-source-cs?tab=readme-ov-file)
 
 # Competitive programming
 - [codewars](https://www.codewars.com/dashboard)
